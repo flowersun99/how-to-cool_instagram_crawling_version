@@ -1,4 +1,4 @@
-# how-to-do-crawling-cool
+# how-to-do-crawling-cool(instagram_version)
 if your friends told, "hey, programming seems not cool!" then, run this code and kick his ass!
 
 this code is not crawling instagram. just show auto click and go to page... and so on.
