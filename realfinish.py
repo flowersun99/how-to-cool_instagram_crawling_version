@@ -12,14 +12,13 @@ import numpy as np
 
 
 # 사전 정보 정의
-username = 'jean8291@naver.com'
-userpw = 'Wwlsgur1022!'
+username = #write your instagram id
+userpw = #write your instagram password
 time.sleep(3)
-goal = 'kittybunnypony'
 
 
 # 해시태그 url 값
-url = 'https://www.instagram.com/kittybunnypony/?igshid=YmMyMTA2M2Y%3D'
+url = 'https://www.instagram.com/kittybunnypony/?igshid=YmMyMTA2M2Y%3D' #this is my friend's page so, click like and write command!
 
 
 # 인스타 로그인 URL
